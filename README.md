@@ -15,6 +15,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,5 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
