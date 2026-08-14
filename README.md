@@ -14,6 +14,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0001-two-sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -44,4 +45,9 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
