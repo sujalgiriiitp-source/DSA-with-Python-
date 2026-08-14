@@ -7,11 +7,13 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
