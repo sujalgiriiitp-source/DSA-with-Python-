@@ -11,6 +11,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -79,8 +82,10 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
