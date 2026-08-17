@@ -9,6 +9,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0001-two-sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
@@ -91,4 +92,8 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | ------- |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
