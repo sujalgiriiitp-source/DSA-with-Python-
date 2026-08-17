@@ -52,6 +52,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +73,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
 ## Binary Search
