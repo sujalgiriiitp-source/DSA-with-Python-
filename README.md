@@ -18,6 +18,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
@@ -72,6 +73,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
@@ -98,4 +100,8 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
