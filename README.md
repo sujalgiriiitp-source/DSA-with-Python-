@@ -7,6 +7,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +50,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
@@ -60,6 +62,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
