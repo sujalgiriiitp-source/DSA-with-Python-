@@ -43,6 +43,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
