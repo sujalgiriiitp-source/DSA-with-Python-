@@ -43,6 +43,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
+| [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -79,6 +80,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0125-valid-palindrome](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
+| [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
