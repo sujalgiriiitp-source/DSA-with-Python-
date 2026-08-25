@@ -14,6 +14,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
