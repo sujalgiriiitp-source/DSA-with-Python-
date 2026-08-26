@@ -83,6 +83,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
