@@ -30,6 +30,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Design
 |  |
 | ------- |
@@ -115,8 +118,13 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
