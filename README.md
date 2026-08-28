@@ -62,6 +62,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,4 +129,5 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
