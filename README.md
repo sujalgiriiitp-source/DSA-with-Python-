@@ -16,6 +16,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -139,4 +141,16 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
