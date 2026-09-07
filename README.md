@@ -96,6 +96,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0125-valid-palindrome](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
+| [0940-distinct-subsequences-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -123,6 +124,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
