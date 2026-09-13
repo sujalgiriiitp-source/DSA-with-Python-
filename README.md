@@ -14,6 +14,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0349-intersection-of-two-arrays](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
+| [0835-image-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2463-minimum-total-distance-traveled) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -173,6 +174,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
