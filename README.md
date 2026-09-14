@@ -60,6 +60,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3870-count-commas-in-range) |
@@ -193,4 +194,8 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
