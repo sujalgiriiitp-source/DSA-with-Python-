@@ -61,6 +61,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0002-add-two-numbers](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3870-count-commas-in-range) |
@@ -139,6 +140,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2463-minimum-total-distance-traveled](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -184,6 +186,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
@@ -202,4 +205,8 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
