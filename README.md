@@ -33,6 +33,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
@@ -51,6 +52,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0021-merge-two-sorted-lists](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
@@ -128,6 +130,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -209,4 +212,8 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
