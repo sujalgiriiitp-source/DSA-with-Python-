@@ -66,6 +66,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0002-add-two-numbers](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -217,6 +218,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
