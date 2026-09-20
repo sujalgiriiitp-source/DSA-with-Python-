@@ -121,6 +121,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [1927-sum-game](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
@@ -227,4 +228,8 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
