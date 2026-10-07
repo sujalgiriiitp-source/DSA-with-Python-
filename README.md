@@ -130,6 +130,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 | [0049-group-anagrams](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0383-ransom-note) |
 | [0940-distinct-subsequences-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1096-brace-expansion-ii) |
@@ -216,6 +217,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -267,6 +269,7 @@ A complete Data Structures and Algorithms journey in python with notes, implemen
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sujalgiriiitp-source/DSA-with-Python-/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
