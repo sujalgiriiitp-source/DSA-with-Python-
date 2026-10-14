@@ -1,16 +1,11 @@
 class Solution:
-    def maxAlternatingSum(self, nums: List[int]) -> int:
+    def maxAlternatingSum(self, nums: list[int]) -> int:
         
         squares = sorted(x * x for x in nums)
         
-        n = len(squares)
+        n = len(nums)
         half = n // 2
         
-       
-        negative_sum = sum(squares[:half])
         
-       
-        positive_sum = sum(squares[half:])
-        
-        return positive_sum - negative_sum
+        return sum(squares[half:]) - sum(squares[:half])
         
